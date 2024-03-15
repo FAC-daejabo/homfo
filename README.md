@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
     <img src="https://img.shields.io/badge/Junit-25A162?style=flat&logo=Junit5&logoColor=white" />
-    <img src="https://img.shields.io/badge/Junit-25A162?style=flat&logo=Junit5&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jacoco-55C2E1?style=flat&logo=Cocos&logoColor=white" />
     <br/>    
     <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat&logo=Oracle&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=GitHubActions&logoColor=white" />
