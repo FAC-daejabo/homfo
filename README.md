@@ -71,8 +71,6 @@
 
 |이름|역할|email|github|
 |---|---|---|---|
-|강동하|프론트엔드 개발|kmh0913@ajou.ac.kr|https://github.com/KNamuuu|
-|신우현|프론트엔드 개발|ironee1@ajou.ac.kr|https://github.com/WooHyunKing|
 |정윤미|프론트엔드 개발||https://github.com/yunmi099|
-|유진|백엔드 개발|dbwls30131@ajou.ac.kr|https://github.com/YooJin919|
+|조성연|풀스택 개발|whtjddus8631@ajou.ac.kr|[https://github.com/yunmi099](https://github.com/yeonnnnjs)|
 |장성호|백엔드 및 DevOps 개발|qq9725@ajou.ac.kr|https://github.com/Long9725|
