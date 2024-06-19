@@ -62,7 +62,7 @@
 프론트엔드 및 백엔드 레포를 열람하고 싶으시다면 아래 링크를 확인해주세요.
 <br/>
 
-- homfo-web: private
+- homfo-client: private
 - homfo-server: https://github.com/FAC-daejabo/homfo-server
 - argocd-manifest: private
 
@@ -71,7 +71,7 @@
 
 |이름|역할|email|github|
 |---|---|---|---|
-|정윤미|프론트엔드 개발||https://github.com/yunmi099|
+|정윤미|프론트엔드 개발|yunmi099@ajou.ac.kr|https://github.com/yunmi099|
 |조성연|풀스택 개발|whtjddus8631@ajou.ac.kr|https://github.com/yeonnnnjs|
 |장성호|백엔드 및 DevOps 개발|qq9725@ajou.ac.kr|https://github.com/Long9725|
 |이장원|DevOps 개발|wkddnjs3268@ajou.ac.kr|https://github.com/zzzang12|
