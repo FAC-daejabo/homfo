@@ -72,6 +72,7 @@
 |이름|역할|email|github|
 |---|---|---|---|
 |정윤미|프론트엔드 개발|yunmi099@ajou.ac.kr|https://github.com/yunmi099|
+|김유림|프론트엔드 개발|gimyulim375@gmail.com|https://github.com/urimeee|
 |조성연|풀스택 개발|whtjddus8631@ajou.ac.kr|https://github.com/yeonnnnjs|
 |장성호|백엔드 및 DevOps 개발|qq9725@ajou.ac.kr|https://github.com/Long9725|
 |이장원|DevOps 개발|wkddnjs3268@ajou.ac.kr|https://github.com/zzzang12|
